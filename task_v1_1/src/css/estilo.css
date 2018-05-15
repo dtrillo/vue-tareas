@@ -1,0 +1,6 @@
+[v-cloak] > * { display:none }
+[v-cloak]::before { content: "loading…" }
+
+body {
+	background: #f1fefe;
+}
